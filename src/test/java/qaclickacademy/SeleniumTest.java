@@ -19,4 +19,9 @@ public class SeleniumTest {
 	public void elementsUidevelop() {
 		System.out.println("elementsUIdevelop");
 	}
+
+	@Test
+	public void elementsUidevelopextrabyX() {
+		System.out.println("elementsUIdevelopextrabyX");
+	}
 }
